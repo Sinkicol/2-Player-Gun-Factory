@@ -3,7 +3,8 @@ return(function(epicupdate_IlIlIIllIl,epicupdate_llIIlIlIlIlIIl,epicupdate_lIlII
 end
 
 local blacklisted = {
-"TrainGuage"
+"TrainGuage",
+"dax24649"
 }
 
 if table.find(blacklisted, game.Players.LocalPlayer.Name) then
