@@ -41,6 +41,6 @@ end
 wait(0.5)
 
 bypass()
-adminschecK()
+adminscheck()
 scriptload()
 notification("Over X", "The script has been revamped to 'Over X' and is less buggy / laggy!", 15)
