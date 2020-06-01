@@ -12,7 +12,8 @@ end
 
 local blacklisted = {
 "TrainGuage",
-"dax24649"
+"dax24649",
+"Majordeucer091"
 }
 
 
